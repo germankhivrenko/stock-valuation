@@ -1,0 +1,3 @@
+# aliases
+from stock_valuation.financials_mappers.row_financials_mapper import RowFinancialsMapper as RowMapper
+from stock_valuation.financials_mappers.composite_financials_mapper import CompositeFinancialsMapper as FinancialsMapper
